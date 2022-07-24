@@ -1,5 +1,5 @@
 # While-Loops
-Assignment provided in ECGR 2103
+Assignment provided in Computer Utilization in C++ (ECGR 2103)
 
 Walmart Self-Checkout
 
